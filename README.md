@@ -14,6 +14,3 @@ Example:
 	Profit = 709.45 - 708.25 = $1.20
 
 
-Run on AWS us-east1 region for best performance
-
-Use at your own risk
